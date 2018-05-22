@@ -1,0 +1,81 @@
+#github-link {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    height: 40px;
+    width: 40px;
+    z-index: 10;
+    border-radius: 50%;
+    box-sizing: border-box;
+    background-image: url("mjplogo.png");
+    background-position: center center;
+    background-size: cover;
+    opacity: 0.4;
+    transition: all 0.25s;
+}
+
+#github-link:hover {
+    opacity: 0.8;
+    box-shadow: 0 0 6px #efefef;
+}
+
+* {
+    font-family: 'Futura', 'Helvetica', sans-serif;
+}
+
+input,
+p,
+h4 {
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    position: absolute;
+}
+
+.btn-primary {
+    background: #e7e7e7;
+    border: none;
+    color: #333;
+}
+
+.info-options {
+    background: #fff;
+    padding: 20px;
+    border-radius: 0 25px 25px 0;
+}
+
+.slider-label {
+    color: #115898;
+    margin-top: 30px;
+}
+
+.slider-one {
+    margin-top: 10px;
+}
+
+#exterminate {
+    margin-top: 30px;
+}
+
+
+/* .btn-danger {
+    margin-left: 10px;
+  } */
+
+#attract {
+    color: #888;
+}
+
+#info {
+    width: 300px;
+}
+
+#least {
+    float: left;
+}
+
+#most {
+    float: right;
+}
