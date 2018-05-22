@@ -21,6 +21,7 @@
 
 * {
     font-family: 'Futura', 'Helvetica', sans-serif;
+    overflow: hidden;
 }
 
 input,
